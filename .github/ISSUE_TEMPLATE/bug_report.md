@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[BUG]"
-labels: bug, invalid, crash
+title: "[BUG] (Title)"
+labels: bug, crash, invalid
 assignees: ST-Sebastian
 
 ---
@@ -12,10 +12,7 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behaviour:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Start from here then go to as many steps needed
 
 **Expected behaviour**
 A clear and concise description of what you expected to happen.

@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this modpack
-title: "[IMPROVEMENT]"
+title: "[IMPROVEMENT] (Title)"
 labels: enhancement
 assignees: ST-Sebastian
 
